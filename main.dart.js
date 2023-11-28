@@ -87002,7 +87002,7 @@ q=q.a
 q===$&&A.b()
 q=p.a.a/q.a
 p=t.p
-return A.aGH(this.c,this.a,A.fa(s,A.eY(A.a([A.xw("assets/image/logo.png",B.z,s,s,s,s),B.zg,A.eY(A.a([A.ln(!1,"HOME"),A.ln(!1,"ABOUT"),A.ln(!1,"Skills"),A.ln(!1,"Education"),A.ln(!1,"Projects"),A.ln(!1,"Contact")],p),B.X,B.uc,B.A)],p),B.X,B.Y,B.A),B.t,s,s,s,s,70*r,new A.bf(155*q,0,400*q,0),s,s,s,s),this.b,B.w)},
+return A.aGH(this.c,this.a,A.fa(s,A.eY(A.a([A.xw("assets/image/logo.png",B.z,s,s,50,50),B.zg,A.eY(A.a([A.ln(!1,"HOME"),A.ln(!1,"ABOUT"),A.ln(!1,"Skills"),A.ln(!1,"Education"),A.ln(!1,"Projects"),A.ln(!1,"Contact")],p),B.X,B.uc,B.A)],p),B.X,B.Y,B.A),B.t,s,s,s,s,80*r,new A.bf(155*q,0,400*q,0),s,s,s,s),this.b,B.w)},
 $S:174}
 A.azZ.prototype={
 $2(a,b){var s,r=null,q=this.c,p=this.a,o=$.cz(),n=o.d
