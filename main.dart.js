@@ -90200,13 +90200,13 @@ A.ad4.prototype={
 $1(a){return new A.BH(null)},
 $S:502}
 A.BH.prototype={
-K(a){var s,r,q=null,p="assets/image/srki.jpeg",o=$.bh().gce(),n=$.bh(),m=n.d
-m===$&&A.b()
-s=n.a
+K(a){var s,r,q=null,p=$.bh().gce(),o=$.bh(),n=o.d
+n===$&&A.b()
+s=o.a
 s===$&&A.b()
-n=n.gce()
+o=o.gce()
 r=t.p
-return A.cM(q,A.dn(A.a([A.du(A.a([A.Ef(B.oo,B.an,q,30),A.bW("My Education",q,q,q,A.jD().$1$fontSize(30),q,q)],r),B.E,B.bH,B.v),new A.b1(q,30,q,q),this.Zw(u.e,p,u.W),new A.b1(q,15,q,q),this.Zw(u.t,p,"SMT.D.R Rana Vidha Sankul"),new A.b1(q,50*$.bh().gce(),q,q)],r),B.E,B.bH,B.v),B.p,q,q,q,q,270*(2*o),new A.aN(0,20*n,0,0),q,q,q,500*(m.a.a/s.a))},
+return A.cM(q,A.dn(A.a([A.du(A.a([A.Ef(B.oo,B.an,q,30),A.bW("My Education",q,q,q,A.jD().$1$fontSize(30),q,q)],r),B.E,B.bH,B.v),new A.b1(q,30,q,q),this.Zw(u.e,"assets/image/srki.jpeg",u.W),new A.b1(q,15,q,q),this.Zw(u.t,"assets/image/school.jpg","SMT.D.R Rana Vidha Sankul"),new A.b1(q,50*$.bh().gce(),q,q)],r),B.E,B.bH,B.v),B.p,q,q,q,q,270*(2*p),new A.aN(0,20*o,0,0),q,q,q,500*(n.a.a/s.a))},
 Zw(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=$.bh(),f=g.d
 f===$&&A.b()
 s=g.a
@@ -90239,13 +90239,13 @@ k===$&&A.b()
 i=t.p
 return A.aIU(new A.b1(1050*(f.a.a/s.a),180*g,A.du(A.a([p,A.cM(h,A.dn(A.a([new A.b1(800*(m.a.a/n.a),h,l,h),new A.b1(h,10,h,h),new A.b1(900*(j.a.a/k.a),h,A.bW(a,h,h,h,A.aQW().$3$color$fontSize$fontWeight(B.l,16,B.N),h,h),h)],i),B.ai,B.H,B.v),B.p,h,h,new A.cL(h,h,h,new A.cr(B.z,new A.aB(5,5),B.z,new A.aB(5,5)),h,h,B.ac),h,180*q,h,new A.aN(20,10,25,0),h,h,800*(r.a.a/o.a))],i),B.E,B.H,B.v),h),h)}}
 A.BS.prototype={
-K(a){var s,r,q=null,p="assets/image/srki.jpeg",o=$.bh(),n=o.d
-n===$&&A.b()
-s=o.a
+K(a){var s,r,q=null,p=$.bh(),o=p.d
+o===$&&A.b()
+s=p.a
 s===$&&A.b()
-o=o.gce()
+p=p.gce()
 r=t.p
-return A.cM(q,A.dn(A.a([A.du(A.a([A.Ef(B.oo,B.an,q,30),A.bW("My Education",q,q,q,A.jD().$1$fontSize(30),q,q)],r),B.E,B.bH,B.v),new A.b1(q,30,q,q),A.aQI(u.W,u.e,p),new A.b1(q,15,q,q),A.aQI("SMT.D.R Rana Vidha Sankul",u.t,p)],r),B.E,B.H,B.v),B.p,q,q,q,q,q,new A.aN(0,20*o,0,0),q,q,q,100*(n.a.a/s.a))}}
+return A.cM(q,A.dn(A.a([A.du(A.a([A.Ef(B.oo,B.an,q,30),A.bW("My Education",q,q,q,A.jD().$1$fontSize(30),q,q)],r),B.E,B.bH,B.v),new A.b1(q,30,q,q),A.aQI(u.W,u.e,"assets/image/srki.jpeg"),new A.b1(q,15,q,q),A.aQI("SMT.D.R Rana Vidha Sankul",u.t,"assets/image/school.jpg")],r),B.E,B.H,B.v),B.p,q,q,q,q,q,new A.aN(0,20*p,0,0),q,q,q,100*(o.a.a/s.a))}}
 A.aCl.prototype={
 $1(a){return!1},
 $S:184}
